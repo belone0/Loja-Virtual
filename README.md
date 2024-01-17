@@ -8,8 +8,10 @@ Gostaria de ter feito as requests para o endpoint do jueri no front usando ajax,
 
 O token deve ser inserido em config/token.php, e rodar php artisan optimize dps.
 
-Meus commits não estao aparecendo pq tive que criar um novo repositorio pq eu tinha upado com o token sem querer.
+Meus commits não estao aparecendo pq tive que criar um novo repositorio, pois eu tinha upado com o token sem querer, então criei esse para não aparecer o token nos commits anteriores.
 
 Infelizmente não deu tempo para fazer a paginação e alguns filtros para o index de produtos como eu gostaria.
 
 Desde ja, obrigado pela oportunidade.
+
+Meu linkedin para contato: https://www.linkedin.com/in/jo%C3%A3o-pedro-do-prado-belone-946bab232/
